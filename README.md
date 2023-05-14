@@ -7,7 +7,7 @@ Introducción a mapas de la I.A.
 
 - Búsquedas en Grafos
 
-- Probabilidad (Incertidumbre)
+- Probabilidad
 
 - Lógica
 
